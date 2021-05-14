@@ -1,6 +1,6 @@
 # About me
 
-Es una página estatica que funciona como portafolio.
+Página estática que funciona como portafolio y como contenedor de algunos apuntes sobre tecnologías 
 
 ## Autor
 
